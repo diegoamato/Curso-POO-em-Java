@@ -1,4 +1,4 @@
-# Curso POO em Java/
+# Curso POO em Java
  
 Material do Curso de Programação Orientada à Objetos (POO) em Java, ministrado por
 Curso em Vídeo, realizado durante o mês outubro de 2021.
